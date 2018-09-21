@@ -2,6 +2,6 @@
 
 [Regression Analysis] (https://en.wikipedia.org/wiki/Regression_analysis)  
 
-[Bayesian Inference] (https://en.wikipedia.org/wiki/Portal:Statistics)
+[Bayesian Inference] (https://en.wikipedia.org/wiki/Bayesian_inference)
 
 [Statistics Portal](https://en.wikipedia.org/wiki/Portal:Statistics)
